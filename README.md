@@ -1,3 +1,7 @@
+# Motivation
+
+Markdown is certainly the best way to write short documentation on Github, but it is also an efficient way to **take lecture note**.
+
 # Purpose
 
 **Markup** aims to be the all-in-one solution for interpreting long markdown files. It is suitable for academic use and lecture note taking. 
